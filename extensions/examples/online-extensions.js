@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 
 /*
   This file contains extensions being used by the OpenShift Online Developer Preview
